@@ -1,4 +1,4 @@
-# VRC-Song-Lyrics
+# VRC-lyricx
 
 Hello! This is a program that takes what your playing on spotify and depending on if theres synced lyrics for the song it will display thoughs synced lyrics in the VRChat chatbox and the name of the song playing in your status!
 
